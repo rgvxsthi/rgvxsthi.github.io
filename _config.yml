@@ -20,6 +20,11 @@ linkedin_username: raghavsethi62
 youtube_username: globalmtb
 # googleplus_username: +jekyll
 
+additional_links:
+- title: Download Resume
+  icon: fa-download
+  url: rgvxsthi.github.io
+
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.png
