@@ -1,6 +1,6 @@
 # Site
 repository: rgvxsthi/rgvxsthi.github.io
-favicon: images/favicon.ico
+favicon: images/favicon-16x16.png
 
 # Personal info
 name: Raghav Sethi
@@ -51,6 +51,7 @@ footer_show_references: true
 
 # Build settings
 remote_theme: sproogen/resume-theme
+darkmode: false
 
 sass:
   sass_dir: _sass
