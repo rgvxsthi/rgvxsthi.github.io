@@ -1,4 +1,3 @@
-# rgvxsthi.github.io
-Raghav's CV hosted @ rgvxsthi.github.io
+Raghav's web-based CV/website hosted @ [rgvxsthi.github.io](rgvxsthi.github.io)
 
-Built using [Jekyll](https://jekyllrb.com/) + [sproogen](https://github.com/sproogen)'s amazing [modern-resume-theme](https://github.com/sproogen/modern-resume-theme)
+Built using [GH Pages](https://pages.github.com/) + [Jekyll](https://jekyllrb.com/) + [sproogen](https://github.com/sproogen)'s amazing [modern-resume-theme](https://github.com/sproogen/modern-resume-theme)
