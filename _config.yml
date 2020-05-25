@@ -64,4 +64,3 @@ sass:
 
 plugins:
  - jekyll-seo-tag
- - jekyll-spaceship
