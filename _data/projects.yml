@@ -1,13 +1,13 @@
 - layout: top-middle
   name: Kitchen2Kitchen
-  link: http://gg.gg/Kitchen2KitchenVideo
   github: rgvxsthi/Web-Info
+  link: http://gg.gg/Kitchen2KitchenVideo
   quote: >
    A Web-based Portal for Food Waste Management
   description: |
    This project, created as a part of the <mark>Web Information Technologies (INFO30005)</mark> course, involved the research and development of an online portal where users/restaurants could manage their food waste (in the form of ingredients that they no longer require, which could be picked up by other individuals who could make use out of the same).
 
-   The proposed system was developed with a variety of technologies, such as <mark>NodeJS</mark>, <mark>MongoDB</mark> and <mark>Google Maps</mark> among others.
+   The proposed system was developed with a variety of technologies: such as <mark>NodeJS</mark>, <mark>MongoDB</mark> and <mark>Google Maps</mark> among others.
 
 
 - layout: top-middle
@@ -22,7 +22,7 @@
 
 
 - layout: top-middle
-  name: PEGGY - Your Personal Guide for a Gallery
+  name: PEGGY - Your Personal Gallery Guide
   link: http://gg.gg/PEGGYVideo
   quote: >
    Prototyping and Designing of a Personalized Navigation Guide for a Museum
@@ -31,7 +31,7 @@
 
 
 - layout: top-middle
-  name: User Evaluation of a Consumer Website
+  name: UX Evaluation of Sparkpeople.com
   link: http://gg.gg/EvaluationVideo
   quote: >
    An End-to-End User Study + UX Evaluation of Sparkpeople.com
@@ -42,10 +42,10 @@
 
 
 - layout: top-middle
-  name: Factors Responsible for Successful ERP Implementation in SMEs
+  name: Factors Responsible for ERP Implementation in SMEs
   link: http://gg.gg/IJEBEA17-102
   quote: >
-   Comparitive Research Article about Small and Medium-sized Enterprises (SMEs) using Data Processing Techniques
+   A Comparative Research Article about Small and Medium-sized Enterprises (SMEs) using Data Processing Techniques
   description: |
    In this paper, we present a novel approach about groups of similar factors which affect the degree of excellence in <mark>Enterprise Resource Planning (ERP)</mark> output.
 
@@ -53,10 +53,10 @@
 
 
 - layout: top-middle
-  name: The UX Jumpstarter Course
+  name: UX Jumpstarter Course
   link: http://gg.gg/UXJumpstarterCert
   quote: >
-   A Design Thinking and Research-based Certification in Pune, India
+   A Design Thinking and Research-based Certification Completed in Pune, India
   description: |
    Issued to me in 2016 by ImaginXP, this certification was my introduction into the field of <mark>User Experience and Design Thinking</mark>.
 
