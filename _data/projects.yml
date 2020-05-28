@@ -10,8 +10,7 @@
 - layout: top-middle
   name: Factors Responsible for Successful ERP Implementation in SMEs 
   link: http://gg.gg/IJEBEA17-102
-  #github: sproogen/resume-theme
   quote: >
     Comparitive Research Article about Small and Medium-sized Enterprises (SMEs)
   description: | # this will include new lines to allow paragraphs
-    In this paper we present a novel approach which facilitates groups of similar factors based on their degree of excellence in ERP output. It also selects the top N factors which are affecting ERP practices using a feature selection technique. Cluster quality is used as decision support for the optimum feature set. This approach will inform the quantified measure about overall ERP practice in Delhi/NCR region.
+    In this paper, we present a novel approach about groups of similar factors which affect the degree of excellence in <mark>Enterprise Resource Planning (ERP)</mark> output. It presents the top N factors which affect ERP practices using a precise feature-selection technique. <mark>Cluster Quality Analysis</mark> is used as a novel decision-supporting approach for obtaining an optimum feature set and the entire process presents a quantified measure about general ERP practices followed in the Delhi/NCR region of India. The open source <mark>Weka</mark> tool has been leveraged to design, analyze and perform the dicussed techniques.
