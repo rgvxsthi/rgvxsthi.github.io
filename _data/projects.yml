@@ -1,4 +1,4 @@
-- layout: left
+- layout: top-middle
   name: Kitchen2Kitchen
   link: http://gg.gg/Kitchen2KitchenVideo
   github: rgvxsthi/Web-Info
@@ -8,7 +8,7 @@
    This project, created as a part of the <mark>Web Information Technologies (INFO30005)</mark> course, involved the research and development of an online portal where users/restaurants could manage their food waste (in the form of ingredients that they no longer require, which could be picked up by other individuals could make use out of the same). The proposed system was developed with a variety of technologies, such as <mark>NodeJS</mark>, <mark>MongoDB</mark> and <mark>Google Maps</mark> among others.
 
 
-- layout: left
+- layout: top-middle
   name: Lumos
   link: http://gg.gg/LumosVideo
   quote: >
@@ -17,25 +17,25 @@
    For this project of the <mark>Designing Novel Interactions (INFO90003)</mark> course, my team and I were tasked with researching and building an interactive system which focuses on touch-less, human-computer interaction, which led us to Lumos! The proposed system uses a <mark>Leap Motion</mark>, an inexpensive but powerful device capable of recognizing <mark>hand and finger-based gestures</mark>. Paired with technologies such as <mark>HTML5</mark>,<mark>Blender</mark>,<mark>Three.js</mark>, <mark>Converse.js</mark> and <mark>Node.js</mark>, we showcase different scenarios where the system is useful and allows a seamless yet interactive experience using different mid-air gestures.
 
 
-- layout: left
+- layout: top-middle
   name: PEGGY - Your Personal Guide for a Gallery
   link: http://gg.gg/PEGGYVideo
   quote: >
-   Prototyping and Designing a Personalized Navigation Guide for a Museum
+   Prototyping and Designing of a Personalized Navigation Guide for a Museum
   description: |
    The final project for <mar>Fieldwork for Design (INFO90006)</mark>,
 
 
-- layout: left
+- layout: top-middle
   name: User Evaluation of a Consumer Website
   link: http://gg.gg/EvaluationVideo
   quote: >
    An End-to-End User Study + UX Evaluation of Sparkpeople.com
   description: |
-   For the <mark>Evaluating the User Experience (INFO90004)</mark> course, my group and I were asked to conduct a <mark>user evaluation</mark> and <mark>usability study</mark> of <a href="www.sparkpeople.com">Sparkpeople.com</a>. 10 participants were recruited after extensive screening (using <mark>semi-structured questionnaires and interviews</mark>) and were then asked to perform a variety of tasks to test the overall usability and layout of the website. While conducting these tasks, the reactions of the participants were tracked using the industry-grade <mark>Tobii Pro eye tracking device</mark> (the results of which were used to deduce heatmaps and eye-gaze data) and the <mark>Think-Aloud interviewing</mark> technique.
+   For the <mark>Evaluating the User Experience (INFO90004)</mark> course, my group and I were asked to conduct a <mark>user evaluation</mark> and <mark>usability study</mark> of [www.sparkpeople.com](www.sparkpeople.com){:target="_blank"}. 10 participants were recruited after extensive screening (using <mark>semi-structured questionnaires and interviews</mark>) and were then asked to perform a variety of tasks to test the overall usability and layout of the website. While conducting these tasks, the reactions of the participants were tracked using the industry-grade <mark>Tobii Pro eye tracking device</mark> (the results of which were used to deduce heatmaps and eye-gaze data) and the <mark>Think-Aloud interviewing</mark> technique.
 
 
-- layout: left
+- layout: top-middle
   name: Factors Responsible for Successful ERP Implementation in SMEs
   link: http://gg.gg/IJEBEA17-102
   quote: >
@@ -44,7 +44,7 @@
    In this paper, we present a novel approach about groups of similar factors which affect the degree of excellence in <mark>Enterprise Resource Planning (ERP)</mark> output. It presents the top N factors which affect ERP practices using a precise feature-selection technique. <mark>Cluster Quality Analysis</mark> is used as a novel decision-supporting approach for obtaining an optimum feature set and the entire process presents a quantified measure about general ERP practices followed in the Delhi/NCR region of India. The open source <mark>Weka</mark> tool has been leveraged to design, analyze and perform the dicussed techniques.
 
 
-- layout: left
+- layout: top-middle
   name: The UX Jumpstarter Course
   link: http://gg.gg/UXJumpstarterCert
   quote: >
