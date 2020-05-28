@@ -1,4 +1,4 @@
-- layout: top-middle
+- layout: left
   name: Kitchen2Kitchen
   link: http://gg.gg/Kitchen2KitchenVideo
   github: https://github.com/rgvxsthi/Web-Info
@@ -7,7 +7,7 @@
   description: |
    This project, created as a part of the <mark>Web Information Technologies (INFO30005)</mark> course, involved the research and development of an online portal where users/restaurants could manage their food waste (in the form of ingredients that they no longer require, which could be picked up by other individuals could make use out of the same). The proposed system was developed with a variety of technologies, such as <mark>NodeJS</mark>, <mark>MongoDB</mark> and <mark>Google Maps</mark> among others.
 
-- layout: top-middle
+- layout: left
   name: Lumos
   link: http://gg.gg/LumosVideo
   quote: >
@@ -15,7 +15,7 @@
   description: |
    For this project of the <mark>Designing Novel Interactions (INFO90003)</mark> course, my team and I were tasked with researching and building an interactive system which focuses on touch-less, human-computer interaction, which led us to Lumos! The proposed system uses a <mark>Leap Motion</mark>, an inexpensive but powerful device capable of recognizing <mark>hand and finger-based gestures</mark>. Paired with technologies such as <mark>HTML5</mark>,<mark>Blender</mark>,<mark>Three.js</mark>, <mark>Converse.js</mark> and <mark>Node.js</mark>, we showcase different scenarios where the system is useful and allows a seamless yet interactive experience using different mid-air gestures.
 
-- layout: top-middle
+- layout: left
   name: Factors Responsible for Successful ERP Implementation in SMEs
   link: http://gg.gg/IJEBEA17-102
   quote: >
@@ -23,18 +23,19 @@
   description: |
    In this paper, we present a novel approach about groups of similar factors which affect the degree of excellence in <mark>Enterprise Resource Planning (ERP)</mark> output. It presents the top N factors which affect ERP practices using a precise feature-selection technique. <mark>Cluster Quality Analysis</mark> is used as a novel decision-supporting approach for obtaining an optimum feature set and the entire process presents a quantified measure about general ERP practices followed in the Delhi/NCR region of India. The open source <mark>Weka</mark> tool has been leveraged to design, analyze and perform the dicussed techniques.
     
-- layout: top-middle
+- layout: left
   name: The UX Jumpstarter Course
   link: http://gg.gg/UXJumpstarterCert
   quote: >
    A Design Thinking and Research-based Certification
   description: |
    Issued to me in 2016 by ImaginXP, this certification was my introduction into the field of <mark>User Experience and Design Thinking</mark>.
-   Some notable learning experiences that came out of this course were:
+
+   Some notable learning experiences that came out of this course are as follows:
     - How to plan, assess and carry out the <mark>design process</mark> for a new or existing system
       
     - The importance of <mark>Cognition, Ethics, Empathy and Perception</mark> when designing for a user
       
     - Different interaction, testing and designing techniques
       
-    - Creation of <mark>mock-ups</mark>, <mark>wireframes</mark> and <mark>user-stories</mark> as well as incorporating them into <mark>user journeys</mark>
+    - Creation of <mark>mock-ups</mark>, <mark>personas</mark>, <mark>wireframes</mark> and <mark>user-stories</mark> as well as incorporating them into <mark>user journeys</mark>
