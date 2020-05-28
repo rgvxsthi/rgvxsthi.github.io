@@ -1,8 +1,17 @@
-- layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
+#- layout: top-middle
+#  name: Super awesome project
+#  link: github.com/sproogen
+#  github: sproogen/resume-theme
+#  quote: >
+#    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+#  description: | # this will include new lines to allow paragraphs
+#    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+
+- layout: left
+  name: Factors responsible for successful ERP implementation in small and medium-sized enterprises (SME) 
+  link: http://gg.gg/IJEBEA17-102
+  #github: sproogen/resume-theme
   quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+    Comparitive Research Article
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    In this paper we present a novel approach which facilitates groups of similar factors based on their degree of excellence in ERP output. It also selects the top N factors which are affecting ERP practices using a feature selection technique. Cluster quality is used as decision support for the optimum feature set. This approach will inform the quantified measure about overall ERP practice in Delhi/NCR region.
