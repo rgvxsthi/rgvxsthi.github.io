@@ -18,6 +18,8 @@ instagram_username: sethijii
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   Hi there! My name's Raghav and I'm a budding UX Researcher.
+  
+  If you have any questions or would like to consult me for business purposes, please do not hesistate to contact me. I can be reached via email - <mark>raghavsethi@yandex.com</mark> or the provided Social Media profiles.
 
 # Experience Section
 experience_title: Experience
@@ -29,10 +31,9 @@ projects_title: Projects
 educaton_title: Education
 
 # More Section
-more_title: Contact Me
-more_content: |
-  If you have any questions or would like to consult me for business purposes, please do not hesistate to contact me. I can be reached via email - <mark>raghavsethi@yandex.com</mark> or the provided Social Media profiles.
-
+#more_title:
+#more_content: |
+  
 # Footer
 footer_show_references: true
 
