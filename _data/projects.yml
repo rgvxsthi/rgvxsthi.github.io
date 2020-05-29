@@ -18,7 +18,7 @@
   quote: >
    Prototyping and Designing of a Personalized Navigation Guide for a Museum
   description: |
-   The final project for <mar>Fieldwork for Design (INFO90006)</mark>,
+   
 
 
 
@@ -58,13 +58,13 @@
 
 
 
+##
+##- layout: top-middle
+##  name: Factors Responsible for ERP Implementation in SMEs
+##  link: http://gg.gg/IJEBEA17-102
+##  quote: >
+##   A Comparative Research Article about Small and Medium-sized Enterprises (SMEs) using Data Processing Techniques
+##  description: |
+##   In this paper, we present a novel approach about groups of similar factors which affect the degree of excellence in <mark>Enterprise Resource Planning (ERP)</mark> output.
 
-- layout: top-middle
-  name: Factors Responsible for ERP Implementation in SMEs
-  link: http://gg.gg/IJEBEA17-102
-  quote: >
-   A Comparative Research Article about Small and Medium-sized Enterprises (SMEs) using Data Processing Techniques
-  description: |
-   In this paper, we present a novel approach about groups of similar factors which affect the degree of excellence in <mark>Enterprise Resource Planning (ERP)</mark> output.
-
-   It presents the top N factors which affect ERP practices using a precise feature-selection technique. <mark>Cluster Quality Analysis</mark> is used as a novel decision-supporting approach for obtaining an optimum feature set and the entire process presents a quantified measure about general ERP practices followed in the Delhi/NCR region of India. The open source <mark>Weka</mark> tool has been leveraged to design, analyze and perform the dicussed techniques.
+##   It presents the top N factors which affect ERP practices using a precise feature-selection technique. <mark>Cluster Quality Analysis</mark> is used as a novel decision-supporting approach for obtaining an optimum feature set and the entire process presents a quantified measure about general ERP practices followed in the Delhi/NCR region of India. The open source <mark>Weka</mark> tool has been leveraged to design, analyze and perform the dicussed techniques.
