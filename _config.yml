@@ -5,7 +5,7 @@ favicon: images/favicon-16x16.png
 # Personal info
 name: Raghav Sethi
 title: User Experience Researcher
-email: raghavsethi@yandex.com
+email: me@sethi.xyz
 #website: rgvxsthi.github.io
 
 # Social links
@@ -18,7 +18,7 @@ about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   Hi there! My name's Raghav and I'm a budding UX Researcher.
   
-  If you have any questions or would like to consult me for business purposes, please do not hesistate to contact me. I can be reached via email - <a href="mailto:raghavsethi@yandex.com">raghavsethi@yandex.com</a> or the provided social media handles.
+  If you have any questions or would like to consult me for business purposes, please do not hesistate to contact me. I can be reached via email - <a href="mailto:me@sethi.xyz">me@sethi.xyz</a> or the provided social media handles.
 
 # Experience Section
 experience_title: Experience
