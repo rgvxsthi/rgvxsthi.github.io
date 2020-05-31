@@ -13,6 +13,20 @@
 
 
 - layout: top-middle
+  name: Unfold - Reimagine the Student Experience
+  link: http://gg.gg/UnfoldVideo
+  quote: >
+   Bridging University Students together to Elevate their Education through a Mobile App
+  description: |
+   For this project of the <mark>Designing Novel Interactions (INFO90003)</mark> course, my team and I were tasked with researching and building an interactive system which focuses on touch-less, human-computer interaction, which led us to Lumos!
+
+   The proposed system uses a <mark>Leap Motion</mark>, an inexpensive but powerful device capable of recognizing <mark>hand and finger-based gestures</mark>. Paired with technologies such as <mark>HTML5</mark>,<mark>Blender</mark>,<mark>Three.js</mark>, <mark>Converse.js</mark> and <mark>Node.js</mark>, we showcase different scenarios where the system is useful and allows a seamless yet interactive experience using different mid-air gestures.
+
+
+
+
+
+- layout: top-middle
   name: PEGGY - Your Personal Gallery Guide
   link: http://gg.gg/PEGGYVideo
   quote: >
