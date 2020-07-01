@@ -4,9 +4,7 @@
   quote: >
    System Presenting a Novel Way to Interact with Public Displays using Mid-Air Gestures
   description: |
-   For this project of the <mark>Designing Novel Interactions (INFO90003)</mark> course, my team and I were tasked with researching and building an interactive system which focuses on touch-less, human-computer interaction, which led us to Lumos!
-
-   The proposed system uses a <mark>Leap Motion</mark>, an inexpensive but powerful device capable of recognizing <mark>hand and finger-based gestures</mark>. Paired with technologies such as <mark>HTML5</mark>,<mark>Blender</mark>,<mark>Three.js</mark>, <mark>Converse.js</mark> and <mark>Node.js</mark>, we showcase different scenarios where the system is useful and allows a seamless yet interactive experience using different mid-air gestures.
+   For this project of the <mark>Designing Novel Interactions (INFO90003)</mark> course, my team and I were tasked with researching and building an interactive system which focuses on touch-less, human-computer interaction, which led us to Lumos! The proposed system uses a <mark>Leap Motion</mark>, an inexpensive but powerful device capable of recognizing <mark>hand and finger-based gestures</mark>. Paired with technologies such as <mark>HTML5</mark>,<mark>Blender</mark>,<mark>Three.js</mark>, <mark>Converse.js</mark> and <mark>Node.js</mark>, we showcase different scenarios where the system is useful and allows a seamless yet interactive experience using different mid-air gestures.
 
 
 
@@ -18,9 +16,7 @@
   quote: >
    Bridging University Students together to Elevate their Education through a Mobile App
   description: |
-   <mark>Social Computing (INFO90007)</mark> involved my team and I to create an interactive system which would allow university students to showcase their assignments with their peers, enroll into mentorship programs with alumni students as well as provide them with the ability to manage university clubs and student societies from within the application itself. 
-
-   The rough mock-up of the application was designed in <mark>Adobe XD</mark>, whereas initial planning involved <mark>surveys and interviewing<mark> to understand the real requirements of university students based upon which, we generated <mark>user stories and customer journeys</mark>. The R&D phase also involved the development of multiple <mark>paper prototypes</mark> and <mark>user personas</mark>.
+   <mark>Social Computing (INFO90007)</mark> involved my team and I to create an interactive system which would allow university students to showcase their assignments with their peers, enroll into mentorship programs with alumni students as well as provide them with the ability to manage university clubs and student societies from within the application itself. The rough mock-up of the application was designed in <mark>Adobe XD</mark>, whereas initial planning involved <mark>surveys and interviewing</mark> to understand the real requirements of university students based upon which, we generated <mark>user stories and customer journeys</mark>. The R&D phase also involved the development of multiple <mark>paper prototypes</mark> and <mark>user personas</mark>.
 
 
 
@@ -45,9 +41,7 @@
   quote: >
    An End-to-End User Study + UX Evaluation of Sparkpeople.com
   description: |
-   For the <mark>Evaluating the User Experience (INFO90004)</mark> course, my group and I were asked to conduct a <mark>user evaluation</mark> and <mark>usability study</mark> of SparkPeople.com 
-
-   10 participants were recruited after extensive screening (using <mark>semi-structured questionnaires and interviews</mark>) and were then asked to perform a variety of tasks to test the overall usability and layout of the website. While conducting these tasks, the reactions of the participants were tracked using the industry-grade <mark>Tobii Pro eye tracking device</mark> (the results of which were used to deduce heatmaps and eye-gaze data) and the <mark>Think-Aloud interviewing</mark> technique.
+   For the <mark>Evaluating the User Experience (INFO90004)</mark> course, my group and I were asked to conduct a <mark>user evaluation</mark> and <mark>usability study</mark> of SparkPeople.com. 10 participants were recruited after extensive screening (using <mark>semi-structured questionnaires and interviews</mark>) and were then asked to perform a variety of tasks to test the overall usability and layout of the website. While conducting these tasks, the reactions of the participants were tracked using the industry-grade <mark>Tobii Pro eye tracking device</mark> (the results of which were used to deduce heatmaps and eye-gaze data) and the <mark>Think-Aloud interviewing</mark> technique.
 
 
 
