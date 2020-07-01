@@ -5,7 +5,7 @@ favicon: images/favicon-16x16.png
 # Personal info
 name: Raghav Sethi
 title: User Experience Researcher
-email: me@raghavsethi.xyz
+email: raghavsethi@yandex.com
 website: https://raghavsethi.xyz/
 
 # Social links
@@ -18,9 +18,9 @@ about_profile_image: images/profile2.png
 about_content: |
   Hi there! My name's Raghav and I'm a budding UX Researcher. I have recently completed my Masters degree with a specialization in <mark>Human Computer Interaction (HCI)</mark> from The University of Melbourne (QS Ranking #3 in Computer Science).
 
-  While my prior work experience is quite interdisciplinary in nature, a major part of it revolves around research-driven decision making. I'm a strong advocate for user-centric design and believe that it is important to understand and acknowledge the needs and frustrations of your customers to create memorable and easy-to-use experiences for them. My resume can be be found <a href='rgvxsthi.github.io/assets/RaghavSethi_Resume_2020.pdf' target="_blank">here</a>.
+  While my prior work experience is quite interdisciplinary in nature, a major part of it revolves around research-driven decision making. I'm a strong advocate for user-centric design and believe that it is important to understand and acknowledge the needs and frustrations of your customers to create memorable and easy-to-use experiences for them.
 
-  If you have any questions or would like to consult me for business purposes, please do not hesitate to contact me. I can be reached via email - <a href='mailto:raghavsethi@yandex.com'>raghavsethi@yandex.com</a> or the provided social media handles.
+  If you have any questions or would like to consult me for business purposes, please do not hesitate to contact me. I can be reached via email - <a href='mailto:raghavsethi@yandex.com'>raghavsethi@yandex.com</a> or the provided social media handles. You can also have a look at my resume by <a href='rgvxsthi.github.io/assets/RaghavSethi_Resume_2020.pdf' target="_blank">clicking here</a>.
 
 # Experience Section
 experience_title: Experience
@@ -36,7 +36,7 @@ educaton_title: Education
 #more_content: |
   
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
 remote_theme: sproogen/resume-theme
